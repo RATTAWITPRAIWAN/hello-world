@@ -2,10 +2,12 @@
 Just another repository
 <p> Maximum Likelihood
 <p> Maximum Likelihood is one of Parameter Estimation Methods for estimating parameters in probabilistic function.
-<!DOCTYPE html>
+<p> <!DOCTYPE html>
 <html>
 	<head>
 		<title>Hank Quinlan, Horrible Cop</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
 	<body>
 		<nav>
